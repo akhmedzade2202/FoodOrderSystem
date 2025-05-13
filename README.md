@@ -31,7 +31,7 @@ Before you start, make sure you have:
 
 ### 🔹 Clone the Repository
 bash
-git clone https://github.com/sehrivaliyeva/FoodOrderSystem.git
+git clone https://github.com/akhmedzade2202/FoodOrderSystem.git
 cd FoodOrderSystem
 
 
